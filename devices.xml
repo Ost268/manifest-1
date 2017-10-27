@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  
+  <!-- Xiaomi Redmi Note 3 (kenzi) -->
     <project path="device/xiaomi/kenzo" name="LineageOS/device_xiaomi_kenzo" remote="github" revision="cm-14.1" />
   <project path="device/xiaomi/msm8956-common" name="LineageOS/device_xiaomi_msm8956-common" remote="github" revision="cm-14.1" />
   <project path="vendor/xiaomi" name="LineageOS/proprietary_vendor_xiaomi" remote="github" revision="cm14.1" />
