@@ -9,6 +9,5 @@
   <project path="device/xiaomi/msm8956-common" name="LineageOS/device_xiaomi_msm8956-common" remote="github" revision="cm-14.1" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1"/>
-  <project path="vendor/xiaomi" name="LineageOS/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1"/>
 
 </manifest>
