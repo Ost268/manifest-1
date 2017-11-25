@@ -558,6 +558,11 @@
 
   <include name="snippets/lineage.xml" />
 
+    <!-- NethunterOS includes -->
+  <include name="vendor.xml" />
+  <include name="devices.xml" />
+  <include name="nethunteros.xml" />
+
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
