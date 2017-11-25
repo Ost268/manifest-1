@@ -6,7 +6,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/nethunteros/manifest.git -b cm-14.1
+    repo init -u git://github.com/Ost268/manifest-1.git -b cm-14.1
 
 Then to sync up:
 
